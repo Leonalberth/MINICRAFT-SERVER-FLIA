@@ -1,769 +1,403 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
-MSG: Failed to load data from api
-retrying in 3 seconds
-Error: TooManyRequests
-[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425007417 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.18): 1723478024766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425022509 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478027827 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425025572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478030878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425040689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478033938 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425055784 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478036995 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425058839 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478040051 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425073940 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478043113 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425089059 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478046173 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425092116 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478049232 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425107218 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478052293 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425110282 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478055353 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425125372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478058413 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425140461 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478061472 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425143525 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478064525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425158614 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478067587 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425161678 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478070651 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425176773 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478073718 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425191876 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478076788 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425194933 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478079844 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425210033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478082898 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425213091 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478085953 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425228179 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478089005 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425231245 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478092060 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425246341 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478095114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425261430 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478098176 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425264487 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478101238 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425279587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478104308 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425282643 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478107366 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425297739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478110426 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425312853 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.18): 1723478113484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425315921 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/056bb094-3511-44f6-b91f-0b9d746ea8fe
+[2J8[0mplayit (v0.15.18): 1723478116553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425331014 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478119610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425346109 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478122668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425349173 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478125747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425364291 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478128812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425379391 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478131870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425382452 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478134927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425397548 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478137988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425412689 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478141050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425415745 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478144110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425430831 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478147168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425445932 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478150224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425461031 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478153282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425464091 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478156340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425479189 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478159421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425482251 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478162477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425497344 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478165540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425512449 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478168598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425527531 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478171669 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425530589 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478174732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425545681 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478177794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425560793 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478180859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425563853 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478183921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425578945 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478186988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425582006 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478190046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425597102 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478193106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425600165 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478196162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425615269 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478199220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425630365 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478202273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425633432 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478205341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425648522 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478208402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425663625 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478211459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425678714 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478214513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425681777 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478217573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425696893 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478220630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425711985 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478223689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425715043 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478226744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425730137 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478229805 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425745241 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478232870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425760330 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478235932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425775427 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478238990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425778485 tunnel running, 1 tunnels registered
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.18): 1723478242042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425793579 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425808676 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425811734 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425826822 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425841922 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425857017 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425860079 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425875173 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425890265 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425893326 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425908426 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425923525 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425938621 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723425941681 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425956774 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425971874 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723425986973 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426002064 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426017167 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723426020225 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426035328 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426050432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723426053493 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426068581 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426083676 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426098783 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723426101851 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426116951 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426132062 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426147159 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723426150222 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426165313 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426180425 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426195529 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.18): 1723426210655 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.18): 1723426213710 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-popular-centres.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+ship-spend.gl.at.ply.gg:4882 => 127.0.0.1:4882 (minecraft-bedrock)
